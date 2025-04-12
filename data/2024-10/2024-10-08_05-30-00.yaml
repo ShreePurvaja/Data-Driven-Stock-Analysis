@@ -1,0 +1,400 @@
+- Ticker: SBIN
+  close: 781.45
+  date: '2024-10-08 05:30:00'
+  high: 784.4
+  low: 772.25
+  month: 2024-10
+  open: 772.25
+  volume: 8560960
+- Ticker: BAJFINANCE
+  close: 7186.95
+  date: '2024-10-08 05:30:00'
+  high: 7295.4
+  low: 7160.05
+  month: 2024-10
+  open: 7264.85
+  volume: 903805
+- Ticker: TITAN
+  close: 3493.35
+  date: '2024-10-08 05:30:00'
+  high: 3595.0
+  low: 3480.0
+  month: 2024-10
+  open: 3589.25
+  volume: 1360120
+- Ticker: ITC
+  close: 507.95
+  date: '2024-10-08 05:30:00'
+  high: 512.55
+  low: 506.0
+  month: 2024-10
+  open: 510.0
+  volume: 9502367
+- Ticker: TCS
+  close: 4253.25
+  date: '2024-10-08 05:30:00'
+  high: 4279.4
+  low: 4203.95
+  month: 2024-10
+  open: 4272.6
+  volume: 1541867
+- Ticker: LT
+  close: 3532.4
+  date: '2024-10-08 05:30:00'
+  high: 3538.5
+  low: 3469.0
+  month: 2024-10
+  open: 3492.95
+  volume: 2249452
+- Ticker: TATACONSUM
+  close: 1119.05
+  date: '2024-10-08 05:30:00'
+  high: 1124.4
+  low: 1105.45
+  month: 2024-10
+  open: 1111.4
+  volume: 1738272
+- Ticker: RELIANCE
+  close: 1397.35
+  date: '2024-10-08 05:30:00'
+  high: 1401.0
+  low: 1365.1
+  month: 2024-10
+  open: 1372.98
+  volume: 17020808
+- Ticker: HCLTECH
+  close: 1789.45
+  date: '2024-10-08 05:30:00'
+  high: 1794.0
+  low: 1743.0
+  month: 2024-10
+  open: 1774.0
+  volume: 2353030
+- Ticker: JSWSTEEL
+  close: 998.2
+  date: '2024-10-08 05:30:00'
+  high: 1014.4
+  low: 984.0
+  month: 2024-10
+  open: 1014.4
+  volume: 4115797
+- Ticker: ULTRACEMCO
+  close: 11389.8
+  date: '2024-10-08 05:30:00'
+  high: 11475.0
+  low: 11231.0
+  month: 2024-10
+  open: 11231.0
+  volume: 447220
+- Ticker: POWERGRID
+  close: 327.15
+  date: '2024-10-08 05:30:00'
+  high: 331.0
+  low: 322.35
+  month: 2024-10
+  open: 327.3
+  volume: 21148292
+- Ticker: INFY
+  close: 1948.55
+  date: '2024-10-08 05:30:00'
+  high: 1957.95
+  low: 1906.35
+  month: 2024-10
+  open: 1937.9
+  volume: 5637391
+- Ticker: TRENT
+  close: 8041.95
+  date: '2024-10-08 05:30:00'
+  high: 8073.4
+  low: 7451.0
+  month: 2024-10
+  open: 7520.0
+  volume: 2278240
+- Ticker: BHARTIARTL
+  close: 1657.45
+  date: '2024-10-08 05:30:00'
+  high: 1679.5
+  low: 1652.0
+  month: 2024-10
+  open: 1662.6
+  volume: 5224335
+- Ticker: TATAMOTORS
+  close: 919.8
+  date: '2024-10-08 05:30:00'
+  high: 924.8
+  low: 893.85
+  month: 2024-10
+  open: 916.0
+  volume: 21177886
+- Ticker: WIPRO
+  close: 526.95
+  date: '2024-10-08 05:30:00'
+  high: 533.8
+  low: 520.3
+  month: 2024-10
+  open: 531.55
+  volume: 5751402
+- Ticker: TECHM
+  close: 1629.1
+  date: '2024-10-08 05:30:00'
+  high: 1635.0
+  low: 1603.6
+  month: 2024-10
+  open: 1625.0
+  volume: 1311331
+- Ticker: NTPC
+  close: 420.95
+  date: '2024-10-08 05:30:00'
+  high: 427.7
+  low: 411.3
+  month: 2024-10
+  open: 414.0
+  volume: 18706355
+- Ticker: HINDUNILVR
+  close: 2818.8
+  date: '2024-10-08 05:30:00'
+  high: 2886.0
+  low: 2798.7
+  month: 2024-10
+  open: 2844.0
+  volume: 1761488
+- Ticker: APOLLOHOSP
+  close: 6924.3
+  date: '2024-10-08 05:30:00'
+  high: 6940.0
+  low: 6748.7
+  month: 2024-10
+  open: 6819.0
+  volume: 345891
+- Ticker: M&M
+  close: 3165.85
+  date: '2024-10-08 05:30:00'
+  high: 3176.9
+  low: 3066.0
+  month: 2024-10
+  open: 3074.0
+  volume: 6060165
+- Ticker: GRASIM
+  close: 2738.2
+  date: '2024-10-08 05:30:00'
+  high: 2745.15
+  low: 2705.2
+  month: 2024-10
+  open: 2715.25
+  volume: 553985
+- Ticker: ICICIBANK
+  close: 1236.6
+  date: '2024-10-08 05:30:00'
+  high: 1247.8
+  low: 1229.75
+  month: 2024-10
+  open: 1241.0
+  volume: 12219259
+- Ticker: ADANIENT
+  close: 3160.7
+  date: '2024-10-08 05:30:00'
+  high: 3170.0
+  low: 2994.85
+  month: 2024-10
+  open: 3018.5
+  volume: 1776511
+- Ticker: ADANIPORTS
+  close: 1418.55
+  date: '2024-10-08 05:30:00'
+  high: 1424.35
+  low: 1342.0
+  month: 2024-10
+  open: 1342.0
+  volume: 3031170
+- Ticker: BEL
+  close: 280.25
+  date: '2024-10-08 05:30:00'
+  high: 281.5
+  low: 265.55
+  month: 2024-10
+  open: 267.0
+  volume: 29190708
+- Ticker: BAJAJFINSV
+  close: 1838.15
+  date: '2024-10-08 05:30:00'
+  high: 1893.95
+  low: 1833.1
+  month: 2024-10
+  open: 1873.2
+  volume: 1423384
+- Ticker: EICHERMOT
+  close: 4693.45
+  date: '2024-10-08 05:30:00'
+  high: 4738.5
+  low: 4586.2
+  month: 2024-10
+  open: 4650.0
+  volume: 661110
+- Ticker: COALINDIA
+  close: 491.85
+  date: '2024-10-08 05:30:00'
+  high: 492.75
+  low: 476.45
+  month: 2024-10
+  open: 480.8
+  volume: 6049075
+- Ticker: MARUTI
+  close: 12531.95
+  date: '2024-10-08 05:30:00'
+  high: 12630.1
+  low: 12462.05
+  month: 2024-10
+  open: 12502.25
+  volume: 387060
+- Ticker: INDUSINDBK
+  close: 1359.55
+  date: '2024-10-08 05:30:00'
+  high: 1371.0
+  low: 1343.55
+  month: 2024-10
+  open: 1357.85
+  volume: 2429248
+- Ticker: ASIANPAINT
+  close: 3088.05
+  date: '2024-10-08 05:30:00'
+  high: 3099.0
+  low: 3045.65
+  month: 2024-10
+  open: 3058.0
+  volume: 817718
+- Ticker: TATASTEEL
+  close: 159.52
+  date: '2024-10-08 05:30:00'
+  high: 163.59
+  low: 156.7
+  month: 2024-10
+  open: 163.0
+  volume: 74956764
+- Ticker: HDFCLIFE
+  close: 710.1
+  date: '2024-10-08 05:30:00'
+  high: 712.55
+  low: 699.8
+  month: 2024-10
+  open: 700.5
+  volume: 3767320
+- Ticker: DRREDDY
+  close: 1331.21
+  date: '2024-10-08 05:30:00'
+  high: 1333.6
+  low: 1315.0
+  month: 2024-10
+  open: 1321.99
+  volume: 1395550
+- Ticker: SUNPHARMA
+  close: 1917.15
+  date: '2024-10-08 05:30:00'
+  high: 1921.45
+  low: 1901.55
+  month: 2024-10
+  open: 1904.0
+  volume: 2309881
+- Ticker: KOTAKBANK
+  close: 1803.4
+  date: '2024-10-08 05:30:00'
+  high: 1814.0
+  low: 1781.85
+  month: 2024-10
+  open: 1800.0
+  volume: 5097103
+- Ticker: SHRIRAMFIN
+  close: 3329.3
+  date: '2024-10-08 05:30:00'
+  high: 3373.05
+  low: 3278.0
+  month: 2024-10
+  open: 3278.0
+  volume: 1824436
+- Ticker: NESTLEIND
+  close: 2581.75
+  date: '2024-10-08 05:30:00'
+  high: 2594.0
+  low: 2551.6
+  month: 2024-10
+  open: 2570.6
+  volume: 1202170
+- Ticker: ONGC
+  close: 293.45
+  date: '2024-10-08 05:30:00'
+  high: 293.9
+  low: 280.55
+  month: 2024-10
+  open: 288.15
+  volume: 10572360
+- Ticker: CIPLA
+  close: 1640.7
+  date: '2024-10-08 05:30:00'
+  high: 1653.2
+  low: 1623.85
+  month: 2024-10
+  open: 1624.65
+  volume: 1239808
+- Ticker: BPCL
+  close: 338.0
+  date: '2024-10-08 05:30:00'
+  high: 339.45
+  low: 328.25
+  month: 2024-10
+  open: 331.5
+  volume: 9565667
+- Ticker: BRITANNIA
+  close: 6204.4
+  date: '2024-10-08 05:30:00'
+  high: 6234.8
+  low: 6052.05
+  month: 2024-10
+  open: 6137.7
+  volume: 708471
+- Ticker: SBILIFE
+  close: 1728.05
+  date: '2024-10-08 05:30:00'
+  high: 1799.05
+  low: 1723.55
+  month: 2024-10
+  open: 1785.0
+  volume: 2888148
+- Ticker: HINDALCO
+  close: 721.8
+  date: '2024-10-08 05:30:00'
+  high: 732.0
+  low: 708.0
+  month: 2024-10
+  open: 723.5
+  volume: 5418558
+- Ticker: HEROMOTOCO
+  close: 5529.85
+  date: '2024-10-08 05:30:00'
+  high: 5545.0
+  low: 5411.0
+  month: 2024-10
+  open: 5462.0
+  volume: 473756
+- Ticker: AXISBANK
+  close: 1153.3
+  date: '2024-10-08 05:30:00'
+  high: 1168.35
+  low: 1142.5
+  month: 2024-10
+  open: 1153.0
+  volume: 8464570
+- Ticker: HDFCBANK
+  close: 1651.05
+  date: '2024-10-08 05:30:00'
+  high: 1656.8
+  low: 1622.0
+  month: 2024-10
+  open: 1630.0
+  volume: 14867203
+- Ticker: BAJAJ-AUTO
+  close: 11889.1
+  date: '2024-10-08 05:30:00'
+  high: 11936.85
+  low: 11562.2
+  month: 2024-10
+  open: 11585.0
+  volume: 359432

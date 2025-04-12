@@ -1,0 +1,400 @@
+- Ticker: SBIN
+  close: 619.85
+  date: '2023-12-13 05:30:00'
+  high: 620.5
+  low: 611.65
+  month: 2023-12
+  open: 614.45
+  volume: 13977914
+- Ticker: BAJFINANCE
+  close: 7258.0
+  date: '2023-12-13 05:30:00'
+  high: 7304.5
+  low: 7207.0
+  month: 2023-12
+  open: 7299.85
+  volume: 682955
+- Ticker: TITAN
+  close: 3602.35
+  date: '2023-12-13 05:30:00'
+  high: 3609.75
+  low: 3552.75
+  month: 2023-12
+  open: 3585.0
+  volume: 717618
+- Ticker: ITC
+  close: 455.65
+  date: '2023-12-13 05:30:00'
+  high: 458.85
+  low: 453.1
+  month: 2023-12
+  open: 456.3
+  volume: 11283868
+- Ticker: TCS
+  close: 3593.55
+  date: '2023-12-13 05:30:00'
+  high: 3650.0
+  low: 3563.0
+  month: 2023-12
+  open: 3643.55
+  volume: 3850968
+- Ticker: LT
+  close: 3399.8
+  date: '2023-12-13 05:30:00'
+  high: 3410.0
+  low: 3346.2
+  month: 2023-12
+  open: 3352.95
+  volume: 1509107
+- Ticker: TATACONSUM
+  close: 945.55
+  date: '2023-12-13 05:30:00'
+  high: 947.92
+  low: 934.88
+  month: 2023-12
+  open: 936.36
+  volume: 888773
+- Ticker: RELIANCE
+  close: 1216.97
+  date: '2023-12-13 05:30:00'
+  high: 1219.18
+  low: 1203.15
+  month: 2023-12
+  open: 1211.0
+  volume: 10031182
+- Ticker: HCLTECH
+  close: 1369.2
+  date: '2023-12-13 05:30:00'
+  high: 1382.8
+  low: 1357.05
+  month: 2023-12
+  open: 1379.35
+  volume: 1896931
+- Ticker: JSWSTEEL
+  close: 851.4
+  date: '2023-12-13 05:30:00'
+  high: 859.2
+  low: 840.0
+  month: 2023-12
+  open: 854.85
+  volume: 2170707
+- Ticker: ULTRACEMCO
+  close: 9739.15
+  date: '2023-12-13 05:30:00'
+  high: 10043.0
+  low: 9676.8
+  month: 2023-12
+  open: 9899.95
+  volume: 1501931
+- Ticker: POWERGRID
+  close: 236.95
+  date: '2023-12-13 05:30:00'
+  high: 237.5
+  low: 230.6
+  month: 2023-12
+  open: 231.0
+  volume: 26878281
+- Ticker: INFY
+  close: 1449.0
+  date: '2023-12-13 05:30:00'
+  high: 1476.05
+  low: 1433.15
+  month: 2023-12
+  open: 1476.0
+  volume: 8549258
+- Ticker: TRENT
+  close: 2963.45
+  date: '2023-12-13 05:30:00'
+  high: 2973.95
+  low: 2887.05
+  month: 2023-12
+  open: 2895.0
+  volume: 887243
+- Ticker: BHARTIARTL
+  close: 999.9
+  date: '2023-12-13 05:30:00'
+  high: 1002.0
+  low: 991.5
+  month: 2023-12
+  open: 993.2
+  volume: 4153219
+- Ticker: TATAMOTORS
+  close: 720.3
+  date: '2023-12-13 05:30:00'
+  high: 721.45
+  low: 713.5
+  month: 2023-12
+  open: 716.0
+  volume: 5807736
+- Ticker: WIPRO
+  close: 419.65
+  date: '2023-12-13 05:30:00'
+  high: 424.3
+  low: 415.0
+  month: 2023-12
+  open: 423.55
+  volume: 4848408
+- Ticker: TECHM
+  close: 1216.1
+  date: '2023-12-13 05:30:00'
+  high: 1233.95
+  low: 1197.05
+  month: 2023-12
+  open: 1226.0
+  volume: 3025706
+- Ticker: NTPC
+  close: 294.05
+  date: '2023-12-13 05:30:00'
+  high: 294.9
+  low: 284.5
+  month: 2023-12
+  open: 284.75
+  volume: 23629670
+- Ticker: HINDUNILVR
+  close: 2511.9
+  date: '2023-12-13 05:30:00'
+  high: 2516.7
+  low: 2498.05
+  month: 2023-12
+  open: 2507.85
+  volume: 1513205
+- Ticker: APOLLOHOSP
+  close: 5426.75
+  date: '2023-12-13 05:30:00'
+  high: 5452.0
+  low: 5369.4
+  month: 2023-12
+  open: 5402.95
+  volume: 476781
+- Ticker: M&M
+  close: 1666.15
+  date: '2023-12-13 05:30:00'
+  high: 1670.5
+  low: 1629.55
+  month: 2023-12
+  open: 1639.0
+  volume: 2247441
+- Ticker: GRASIM
+  close: 2075.7
+  date: '2023-12-13 05:30:00'
+  high: 2084.66
+  low: 2029.23
+  month: 2023-12
+  open: 2072.66
+  volume: 799207
+- Ticker: ICICIBANK
+  close: 1013.9
+  date: '2023-12-13 05:30:00'
+  high: 1020.7
+  low: 1009.2
+  month: 2023-12
+  open: 1014.8
+  volume: 15887040
+- Ticker: ADANIENT
+  close: 2875.05
+  date: '2023-12-13 05:30:00'
+  high: 2899.1
+  low: 2805.0
+  month: 2023-12
+  open: 2860.0
+  volume: 2805832
+- Ticker: ADANIPORTS
+  close: 1063.5
+  date: '2023-12-13 05:30:00'
+  high: 1075.0
+  low: 1028.8
+  month: 2023-12
+  open: 1045.0
+  volume: 8151639
+- Ticker: BEL
+  close: 162.85
+  date: '2023-12-13 05:30:00'
+  high: 163.9
+  low: 159.4
+  month: 2023-12
+  open: 160.2
+  volume: 16804086
+- Ticker: BAJAJFINSV
+  close: 1684.55
+  date: '2023-12-13 05:30:00'
+  high: 1709.5
+  low: 1668.2
+  month: 2023-12
+  open: 1708.0
+  volume: 1168629
+- Ticker: EICHERMOT
+  close: 4032.75
+  date: '2023-12-13 05:30:00'
+  high: 4044.95
+  low: 3957.95
+  month: 2023-12
+  open: 3969.0
+  volume: 707209
+- Ticker: COALINDIA
+  close: 345.2
+  date: '2023-12-13 05:30:00'
+  high: 349.8
+  low: 343.7
+  month: 2023-12
+  open: 349.4
+  volume: 8091533
+- Ticker: MARUTI
+  close: 10380.0
+  date: '2023-12-13 05:30:00'
+  high: 10412.9
+  low: 10260.0
+  month: 2023-12
+  open: 10360.0
+  volume: 603469
+- Ticker: INDUSINDBK
+  close: 1506.9
+  date: '2023-12-13 05:30:00'
+  high: 1512.65
+  low: 1495.0
+  month: 2023-12
+  open: 1502.0
+  volume: 2562565
+- Ticker: ASIANPAINT
+  close: 3243.65
+  date: '2023-12-13 05:30:00'
+  high: 3254.95
+  low: 3190.3
+  month: 2023-12
+  open: 3240.0
+  volume: 1052079
+- Ticker: TATASTEEL
+  close: 131.4
+  date: '2023-12-13 05:30:00'
+  high: 131.5
+  low: 129.15
+  month: 2023-12
+  open: 130.55
+  volume: 22767972
+- Ticker: HDFCLIFE
+  close: 698.2
+  date: '2023-12-13 05:30:00'
+  high: 707.0
+  low: 689.2
+  month: 2023-12
+  open: 706.5
+  volume: 4757264
+- Ticker: DRREDDY
+  close: 1119.73
+  date: '2023-12-13 05:30:00'
+  high: 1122.0
+  low: 1106.07
+  month: 2023-12
+  open: 1112.89
+  volume: 3111975
+- Ticker: SUNPHARMA
+  close: 1233.1
+  date: '2023-12-13 05:30:00'
+  high: 1239.6
+  low: 1212.65
+  month: 2023-12
+  open: 1218.3
+  volume: 2448178
+- Ticker: KOTAKBANK
+  close: 1826.2
+  date: '2023-12-13 05:30:00'
+  high: 1835.75
+  low: 1813.1
+  month: 2023-12
+  open: 1824.0
+  volume: 3251332
+- Ticker: SHRIRAMFIN
+  close: 1995.3
+  date: '2023-12-13 05:30:00'
+  high: 2011.7
+  low: 1976.05
+  month: 2023-12
+  open: 2009.95
+  volume: 1594654
+- Ticker: NESTLEIND
+  close: 2504.44
+  date: '2023-12-13 05:30:00'
+  high: 2508.0
+  low: 2482.5
+  month: 2023-12
+  open: 2495.84
+  volume: 445720
+- Ticker: ONGC
+  close: 193.15
+  date: '2023-12-13 05:30:00'
+  high: 195.4
+  low: 192.05
+  month: 2023-12
+  open: 195.4
+  volume: 10892122
+- Ticker: CIPLA
+  close: 1216.5
+  date: '2023-12-13 05:30:00'
+  high: 1217.95
+  low: 1195.2
+  month: 2023-12
+  open: 1198.65
+  volume: 1809563
+- Ticker: BPCL
+  close: 223.75
+  date: '2023-12-13 05:30:00'
+  high: 227.18
+  low: 222.98
+  month: 2023-12
+  open: 224.75
+  volume: 26664018
+- Ticker: BRITANNIA
+  close: 4919.3
+  date: '2023-12-13 05:30:00'
+  high: 4928.0
+  low: 4860.0
+  month: 2023-12
+  open: 4910.0
+  volume: 153558
+- Ticker: SBILIFE
+  close: 1466.8
+  date: '2023-12-13 05:30:00'
+  high: 1483.15
+  low: 1460.0
+  month: 2023-12
+  open: 1483.15
+  volume: 2279728
+- Ticker: HINDALCO
+  close: 532.85
+  date: '2023-12-13 05:30:00'
+  high: 535.25
+  low: 523.3
+  month: 2023-12
+  open: 528.95
+  volume: 4000017
+- Ticker: HEROMOTOCO
+  close: 3863.3
+  date: '2023-12-13 05:30:00'
+  high: 3870.0
+  low: 3734.8
+  month: 2023-12
+  open: 3740.0
+  volume: 1355603
+- Ticker: AXISBANK
+  close: 1114.85
+  date: '2023-12-13 05:30:00'
+  high: 1151.0
+  low: 1111.45
+  month: 2023-12
+  open: 1150.0
+  volume: 8184523
+- Ticker: HDFCBANK
+  close: 1630.9
+  date: '2023-12-13 05:30:00'
+  high: 1636.0
+  low: 1615.1
+  month: 2023-12
+  open: 1632.45
+  volume: 14673457
+- Ticker: BAJAJ-AUTO
+  close: 6316.1
+  date: '2023-12-13 05:30:00'
+  high: 6329.0
+  low: 6224.35
+  month: 2023-12
+  open: 6259.9
+  volume: 373989
